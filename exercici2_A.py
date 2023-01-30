@@ -1,6 +1,7 @@
 
-def nombres():
+def nombre():
 
-print('Adrian', 'Marc', 'Roni','Angel','Roger')
+    lista1 = ['Adrian', 'Marc', 'Roni','Angel','Roger']
+    print(lista1)
 
 
